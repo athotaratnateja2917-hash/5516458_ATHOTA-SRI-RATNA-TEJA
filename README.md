@@ -13,3 +13,6 @@
 <img src = "https://github.com/athotaratnateja2917-hash/5516458_ATHOTA-SRI-RATNA-TEJA/blob/main/linux1/commands2.png" alt = "image">
 
 <img src = "https://github.com/athotaratnateja2917-hash/5516458_ATHOTA-SRI-RATNA-TEJA/blob/main/linux1/commands3.png" alt = "image">
+
+<img src = "https://github.com/athotaratnateja2917-hash/5516458_ATHOTA-SRI-RATNA-TEJA/blob/main/c/C%20basic%20concepts.png" alt = "image">
+
